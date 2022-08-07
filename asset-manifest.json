@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clientRetreive/static/css/main.fa95dbb9.css",
-    "main.js": "/clientRetreive/static/js/main.66679601.js",
-    "static/js/787.fccaf551.chunk.js": "/clientRetreive/static/js/787.fccaf551.chunk.js",
-    "index.html": "/clientRetreive/index.html",
-    "main.fa95dbb9.css.map": "/clientRetreive/static/css/main.fa95dbb9.css.map",
-    "main.66679601.js.map": "/clientRetreive/static/js/main.66679601.js.map",
-    "787.fccaf551.chunk.js.map": "/clientRetreive/static/js/787.fccaf551.chunk.js.map"
+    "main.css": "/client-retreive/static/css/main.fa95dbb9.css",
+    "main.js": "/client-retreive/static/js/main.f88e1627.js",
+    "static/js/787.fccaf551.chunk.js": "/client-retreive/static/js/787.fccaf551.chunk.js",
+    "index.html": "/client-retreive/index.html",
+    "main.fa95dbb9.css.map": "/client-retreive/static/css/main.fa95dbb9.css.map",
+    "main.f88e1627.js.map": "/client-retreive/static/js/main.f88e1627.js.map",
+    "787.fccaf551.chunk.js.map": "/client-retreive/static/js/787.fccaf551.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa95dbb9.css",
-    "static/js/main.66679601.js"
+    "static/js/main.f88e1627.js"
   ]
 }
